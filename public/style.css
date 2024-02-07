@@ -20,6 +20,7 @@ header{
 }
 .navegacao{
     border-radius: 10px ;
+    background-color: rgba(245, 245, 245, 0.486);
     border: solid rgba(233, 143, 9, 0.404) 1px;
     backdrop-filter: blur(4px);
     margin-right: 10px;
